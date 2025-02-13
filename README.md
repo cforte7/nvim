@@ -1,4 +1,13 @@
-# 💤 LazyVim
+# Neovim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Repo to version control my Neovim config.
+
+
+# Setting up New Env
+
+Things you have to do besides clone this repo to get everything working.
+
+```
+# install npm
+brew install npm
+```
